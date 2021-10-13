@@ -14,10 +14,6 @@ Built using Jekyll static site generator and basic HTML/CSS (SASS). No plugins.
 - basic SEO meta tags w/o any plugins (canonical links, page/img descriptions)
 - simple 404 page
 
-### To-do
-
-Add CNAME file for custom domain support.
-
 ### License
 
 This project is licensed under the [MIT license](https://github.com/escapethe3RA/monero-means-money/blob/main/LICENSE).
