@@ -9,7 +9,7 @@ title: About
 
 ![Monero Community Workgroup logo](/assets/img/logo.png){:title="Monero Community Workgroup"}
 
-*Monero Means Money is distributed by rCryptoCurrency LLC. 100% of the net revenue from the film (after transaction fees and publicity expenses) will be given to independent theaters, including Laemmle Theaters in Los Angeles, California and Tampa Theatre in Tampa, Florida.*
+*Monero Means Money is distributed by rCryptoCurrency LLC (now Monero Space LLC). 100% of the net revenue from the film was given to independent theaters, including Laemmle Theaters in Los Angeles, California and Tampa Theatre in Tampa, Florida.*
 
 Dr. Daniel Kim gives a deep-dive summary of the technical, economic, and social aspects of fiat, Bitcoin, and Monero from 2008 to the present day. In keeping with 36C3 CDC's theme of "Respect My Privacy," this talk emphasizes features of cryptocurrencies and asset protection structures that are important to those early adopters who value their privacy.
 
